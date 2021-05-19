@@ -13,7 +13,7 @@ Tools such Blender-OSM and GIS addon in the preferences, these projects are made
   
  * Imported roads, paths and railways have width. They are represented by Blender curves with a profile object. If a terrain is provided, roads are projected on the terrain.
 
- <\details>
+ </details>
   
   
  ![2021-04-05](https://user-images.githubusercontent.com/71865643/118857219-6e2eef00-b8f5-11eb-9250-ce4132c60cf8.png)
