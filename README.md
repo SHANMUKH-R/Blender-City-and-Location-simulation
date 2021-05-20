@@ -21,3 +21,17 @@ Tools such Blender-OSM and GIS addon in the preferences, these projects are made
 # Final Simulation
  
 ![Output](https://user-images.githubusercontent.com/71865643/118857545-ca920e80-b8f5-11eb-9b44-70fe01ebf54b.png)
+
+<Link>
+  
+ https://drive.google.com/file/d/14zxjwb09p23ebrLDlvCkMMA3mmzDFPLC/view?usp=sharing
+  
+</Link>
+
+
+
+# Direct location simulation (Especially for terrain locations)
+
+* This is taken according to elevation values given by NASA
+
+
